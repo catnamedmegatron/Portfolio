@@ -1,6 +1,7 @@
 # 🌌 Retro Cyberpunk Portfolio
-
 A stunning **retro-themed portfolio** blending **cyberpunk vibes** with **modern animations**, **interactive 3D elements**, and **professional design** — built to showcase your story in style.
+
+---
 
 ## 🎁 Highlights
 
@@ -16,9 +17,13 @@ A stunning **retro-themed portfolio** blending **cyberpunk vibes** with **modern
 - 🛸 **Floating Tech Icons** (React, Node.js, Python, etc.)
 - 🔗 **Social Media Links** (quick recruiter access)
 
+---
+
 ## 🔥 Live Preview
 
 👉 **[Check the Live Website Here!](https://portfolio-woad-eight-41.vercel.app/)**
+
+---
 
 ## 🖥️ Responsive, Modern Sections
 - 🏠 **Hero Section** – Animated intro with typing roles & 3D cube
@@ -27,6 +32,8 @@ A stunning **retro-themed portfolio** blending **cyberpunk vibes** with **modern
 - 🎓 **Education Timeline** – Smooth animated milestones
 - 🏆 **Achievements** – Rotating spotlight cards
 - 📩 **Contact Form** – Minimal, interactive form
+
+---
 
 ## ⚙️ Tech Stack
 
@@ -37,6 +44,8 @@ Built using:
 - **Font Awesome** Icons
 - **Fully Responsive** layout for all devices
 
+---
+
 ## 🚀 Roadmap — What’s Coming Next
 - 📝 **Personal Blog Integration**
 - 🌗 **Dark/Light Theme Toggle**
@@ -44,6 +53,8 @@ Built using:
 - 📂 **Advanced Project Filters**
 - 🔔 **Interactive Notifications**
 - ⚡ **Enhanced Mobile Experience**
+
+---
 
 ## 🎉 Closing Note
 
