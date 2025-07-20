@@ -25,6 +25,8 @@ A **vibrant, modern portfolio** fusing **cyberpunk aesthetics** with **smooth an
 
 👉 **[View the Live Website Here](https://portfolio-woad-eight-41.vercel.app/)**
 
+[![Portfolio Preview](assets/logo.png)](https://portfolio-woad-eight-41.vercel.app/)
+
 ---
 
 ## 🖥️ Responsive Sections Breakdown
@@ -66,4 +68,4 @@ Built with:
 > *“This portfolio isn’t just a showcase—it's a mirror of my journey and aspirations.”*
 
 Thank you for visiting! 🚀  
-**Let’s create something unforgettable together.**
+**Let’s create something unforgettable!**
